@@ -66,7 +66,7 @@
 [![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/)
 [![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)](https://bitbucket.org/)
 
-##
+## My Stats
 <div id="stats" align="center">
 
 ![ferr3ira-gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr3ira-gabriel&theme=default&show_icons=true)
