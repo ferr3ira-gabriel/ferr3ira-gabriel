@@ -70,11 +70,9 @@
 <div id="stats" align="center">
 
 ![ferr3ira-gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr3ira-gabriel&theme=default&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ferr3ira-gabriel&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-</div>
-<div id="langs" align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr3ira-gabriel&layout=compact&theme=default)](https://github.com/ferr3ira-gabriel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr3ira-gabriel&layout=compact&theme=default)](https://github.com/ferr3ira-gabriel/github-readme-stats)
 
 </div>
