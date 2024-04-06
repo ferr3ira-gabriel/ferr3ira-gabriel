@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Hi there, welcome to my GitHub profile 👋
+<h2><p style="text-align: center;"> Hi there, welcome to my GitHub profile 👋</p></h2>
 
 ### My Certifications
 [![AWS Solutions Architect](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Solutions+Architect+(2x)&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/certification/)
