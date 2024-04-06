@@ -1,16 +1,80 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZjcWJjOHdqbmNvYmJzOG4yNzRhaGlpamxqZjE0aHUxamk0NmZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</div>
 
-<!--
-**ferr3ira-gabriel/ferr3ira-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gferr3ira/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## Hi there, welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Certifications
+[![AWS Solutions Architect](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Solutions+Architect+(2x)&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/certification/)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/static/v1?style=for-the-badge&message=CKA&color=4285F4&logo=Kubernetes&logoColor=FFFFFF&label=)](https://www.cncf.io/certification/expert/)
+[![GCP Solutions Architect](https://img.shields.io/static/v1?style=for-the-badge&message=GCP+Solutions+Architect&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/certification/)
+[![Terraform Certified](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform+Certified&color=623CE4&logo=Terraform&logoColor=FFFFFF&label=)](https://www.hashicorp.com/certification/terraform-associate)
+[![Datadog Certified](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog+Certified&color=632ca6&logo=Datadog&logoColor=FFFFFF&label=)](https://www.datadoghq.com/certification/)
+
+## AWS Services
+[![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/ec2/)
+[![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/eks/)
+[![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/s3/)
+[![Amazon API Gateway](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+API+Gateway&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/api-gateway/)
+[![Amazon Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/lambda/)
+[![Amazon ECR](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ECR&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/ecr/)
+[![Amazon CloudFront](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudFront&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/cloudfront/)
+[![AWS Secrets Manager](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Secrets+Manager&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/secrets-manager/)
+[![Amazon Route 53](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Route+53&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/route53/)
+[![Amazon IAM](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+IAM&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/iam/)
+[![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/rds/)
+[![Amazon ElastiCache](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ElastiCache&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/elasticache/)
+
+## GCP Services
+[![Google Compute Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Compute+Engine&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/compute/)
+[![Google Cloud Storage](https://img.shields.io/static/v1?style=for-the-badge&message=Cloud+Storage&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/storage/)
+[![Google Kubernetes Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes+Engine&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/kubernetes-engine/)
+[![Google Cloud SQL](https://img.shields.io/static/v1?style=for-the-badge&message=Cloud+SQL&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/sql/)
+[![Google Cloud Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Cloud+Functions&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/functions/)
+[![Google Cloud NAT](https://img.shields.io/static/v1?style=for-the-badge&message=Cloud+NAT&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/nat/)
+[![Google VPC](https://img.shields.io/static/v1?style=for-the-badge&message=VPC&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)](https://cloud.google.com/vpc/)
+
+## CI/CD Tools
+[![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=232F3E&logo=GitHub+Actions&logoColor=FFFFFF&label=)](https://github.com/username/repo-name/actions)
+[![Bitbucket Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket+Pipelines&color=2088FF&logo=bitbucket&logoColor=FFFFFF&label=)](https://bitbucket.org/product/features/pipelines)
+[![GitLab CI](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab+CI&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/)
+[![ArgoCD](https://img.shields.io/static/v1?style=for-the-badge&message=ArgoCD&color=FC6D26&logo=argo&logoColor=FFFFFF&label=)](https://argoproj.github.io/argo-cd/)
+
+## IAC and automation tools
+[![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF&label=)](https://www.terraform.io/)
+[![AWS CloudFormation](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Cloudformation&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/cloudformation/)
+
+## Container and Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Amazon ECS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+ECS&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/ecs/)
+
+## Monitoring, APM and Loggin tools
+[![Datadog](https://img.shields.io/static/v1?style=for-the-badge&message=Datadog&color=632CA6&logo=Datadog&logoColor=FFFFFF&label=)](https://www.datadoghq.com/)
+[![Signoz](https://img.shields.io/static/v1?style=for-the-badge&message=Signoz&color=232F3E&logo=signoz&logoColor=FFFFFF&label=)](https://signoz.io/)
+[![Zabbix](https://img.shields.io/static/v1?style=for-the-badge&message=Zabbix&color=232F3E&logo=zabbix&logoColor=FFFFFF&label=)](https://www.zabbix.com/)
+
+## Code Versioning
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
+[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/)
+[![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)](https://bitbucket.org/)
+
+##
+<div id="stats" align="center">
+
+![ferr3ira-gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr3ira-gabriel&theme=default&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ferr3ira-gabriel&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+</div>
+<div id="langs" align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr3ira-gabriel&layout=compact&theme=default)](https://github.com/ferr3ira-gabriel/github-readme-stats)
+
+</div>
