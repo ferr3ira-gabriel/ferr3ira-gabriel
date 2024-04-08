@@ -12,21 +12,11 @@
 
 ### My Certifications
 <div>
-    <a href="https://www.youracclaim.com/badges/0dbd3b12-450d-41e3-b33a-9e2f8f9c67e2">
-        <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" style="display:inline-block" width="150">
-    </a>
-    <a href="https://www.youracclaim.com/badges/3fd01231-af2d-4e8c-b485-73ee19eeb644">
-        <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" style="display:inline-block" width="150">
-    </a>
-    <a href="https://www.youracclaim.com/badges/0e99827e-71b1-431f-84f7-7f6a929c0705">
-        <img src="https://miro.medium.com/v2/resize:fit:520/1*ik9N6EPd6H6ElO3R_N-Suw.png" alt="GCP Architect Associate" style="display:inline-block" width="150">
-    </a>
-    <a href="https://www.youracclaim.com/badges/a82533a0-52e5-4c67-a3f3-0c02c2a273f2">
-        <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" alt="Terraform Certified" style="display:inline-block" width="150">
-    </a>
-    <a href="https://www.youracclaim.com/badges/48b3b19b-07d1-48f7-8160-3c53d84d2bfa">
-        <img src="https://images.credly.com/size/680x680/images/e8f68597-80d9-425e-80c5-eae9f2859796/image.png" alt="Datadog Certified" style="display:inline-block" width="150">
-    </a>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" style="display:inline-block" width="150">
+  <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" style="display:inline-block" width="150">
+  <img src="https://miro.medium.com/v2/resize:fit:520/1*ik9N6EPd6H6ElO3R_N-Suw.png" alt="GCP Architect Associate" style="display:inline-block" width="150">
+  <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" alt="Terraform Certified" style="display:inline-block" width="150">
+  <img src="https://images.credly.com/size/680x680/images/e8f68597-80d9-425e-80c5-eae9f2859796/image.png" alt="Datadog Certified" style="display:inline-block" width="150">
 </div>
 
 ## AWS Services
