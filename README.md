@@ -10,7 +10,7 @@
 
 <h2><p style="text-align: center;"> Hi there, welcome to my GitHub profile 👋</p></h2>
 
-### My Certifications
+## My Certifications
 <div>
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect - Associate" style="display:inline-block" width="150">
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" style="display:inline-block" width="150">
