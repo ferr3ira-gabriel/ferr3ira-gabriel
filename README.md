@@ -16,8 +16,9 @@
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" style="display:inline-block" width="150">
   <img src="https://miro.medium.com/v2/resize:fit:520/1*ik9N6EPd6H6ElO3R_N-Suw.png" alt="GCP Architect Associate" style="display:inline-block" width="150">
   <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" alt="Terraform Certified" style="display:inline-block" width="150">
-  <img src="https://images.credly.com/size/680x680/images/e8f68597-80d9-425e-80c5-eae9f2859796/image.png" alt="Datadog Certified" style="display:inline-block" width="150">
+  <img src="https://images.credly.com/images/a63191c6-911e-4ac8-b5d7-cf37e5b2b79e/image.png" alt="Datadog Certified" style="display:inline-block" width="150">
 </div>
+
 
 ## AWS Services
 [![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=232F3E&logo=Amazon+AWS&logoColor=FF9900&label=)](https://aws.amazon.com/ec2/)
